@@ -1,0 +1,2 @@
+# Protect the original source files: keep their CRLF line endings byte-for-byte
+*.m -text
